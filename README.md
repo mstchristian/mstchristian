@@ -31,4 +31,4 @@ Participación en el diseño y desarrollo de un sistema CanSat, abarcando:
 ## ✧ Contacto
 Explora mis repositorios y proyectos en este perfil. Siempre abierto a nuevas oportunidades de colaboración y aprendizaje.
 
-[![Instagram](https://img.shields.io/badge/Instagram-%40mst.christian__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mst.christian_)
+[![Instagram](https://img.shields.io/badge/Instagram-%40mstchristian__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mstchristian_)
