@@ -1,6 +1,6 @@
 # ✦ Christian Aceves
 
-Estudiante de bachillerato con interés en **ingeniería**, **programación**, **electrónica** y **robótica**, enfocado en el desarrollo de soluciones técnicas funcionales y bien estructuradas.
+Estudiante de bachillerato con interés en **ingeniería**, **programación**, **electrónica** y **robótica**.
 
 ---
 
@@ -8,7 +8,6 @@ Estudiante de bachillerato con interés en **ingeniería**, **programación**, *
 - Desarrollo de software y principios de ingeniería
 - Electrónica aplicada y sistemas embebidos
 - Robótica, sensorización y control
-- Metodologías de trabajo organizadas y aprendizaje continuo
 
 ---
 
